@@ -4,13 +4,9 @@
 		"description": "Ekko 的个人博客"
 	},
 	"theme": {
-		"colorBrand": "#57EAF6"
+		"colorBrand": "#00d6bd"
 	},
 	"backgroundColors": [
-		"#546FEF",
-		"#93648F",
-		"#56F507",
-		"#5BD0C0",
-		"#EDDD62"
+		"#000000"
 	]
 }
